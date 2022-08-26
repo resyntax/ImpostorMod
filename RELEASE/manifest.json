@@ -1,0 +1,10 @@
+{
+  "name": "ImpostorMod",
+  "version_number": "0.4.6",
+  "website_url": "https://github.com/resyntax",
+  "description": "(BETA) A suspicious impostor arrives in Risk of Rain 2",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2102",
+    "tristanmcpherson-R2API-4.4.1"
+  ]
+}
