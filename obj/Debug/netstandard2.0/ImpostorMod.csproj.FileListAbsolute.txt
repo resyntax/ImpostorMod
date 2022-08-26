@@ -1,0 +1,14 @@
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.csproj.AssemblyReference.cache
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.AssemblyInfoInputs.cache
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.AssemblyInfo.cs
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.csproj.CoreCompileInputs.cache
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\ImpostorMod.deps.json
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\ImpostorMod.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\ImpostorMod.pdb
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\MMHOOK_RoR2.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\R2API.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\R2API.xml
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.csproj.CopyComplete
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\ImpostorMod.pdb

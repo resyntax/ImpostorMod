@@ -1,0 +1,14 @@
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\HenryMod.deps.json
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\HenryMod.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\HenryMod.pdb
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\MMHOOK_RoR2.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\R2API.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\R2API.xml
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.AssemblyReference.cache
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfoInputs.cache
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.AssemblyInfo.cs
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.CoreCompileInputs.cache
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.csproj.CopyComplete
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.dll
+C:\Users\mnoah\Desktop\Godhelpme\HenryTutorial-master\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\HenryMod.pdb
