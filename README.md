@@ -13,3 +13,7 @@ Knife model: https://www.thingiverse.com/thing:4612495
 Unity Project Link: https://drive.google.com/file/d/1_S5B1SnbnjW2NJ5eD1Vru_aa_YCLzcx8/view?usp=sharing
 
 DISCLAMER: This is completely non-commercial and I adhere to the CC license. If you have a problem my use of your intellectual property contact me via discord at resyntax
+
+v1.0.0 when?
+
+maybe
